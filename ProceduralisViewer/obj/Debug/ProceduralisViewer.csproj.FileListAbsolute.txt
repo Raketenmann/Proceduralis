@@ -10,3 +10,9 @@ C:\Projekte\Proceduralis\Proceduralis\ProceduralisViewer\obj\Debug\ProceduralisV
 C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\bin\Debug\ProceduralisViewer.exe.config
 C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\obj\Debug\ProceduralisViewer.exe
 C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\obj\Debug\ProceduralisViewer.pdb
+C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\obj\Debug\ProceduralisViewer.csprojResolveAssemblyReference.cache
+C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\obj\Debug\ProceduralisViewer.Form1.resources
+C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\obj\Debug\ProceduralisViewer.Properties.Resources.resources
+C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\obj\Debug\ProceduralisViewer.csproj.GenerateResource.Cache
+C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\bin\Debug\ProceduralisViewer.exe
+C:\Projekte\Proceduralis\github\Proceduralis\ProceduralisViewer\bin\Debug\ProceduralisViewer.pdb
